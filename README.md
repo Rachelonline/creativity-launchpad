@@ -2,6 +2,11 @@
 
 A starting point for "creativity hour," a personal activity for me to explore the world and indulge in my own curiosities
 
+<img width="1440" alt="Screen Shot 2023-07-08 at 4 48 00 PM" src="https://github.com/Rachelonline/creativity-launchpad/assets/39543727/3adc47eb-75a0-4204-8c31-c8172605a197">
+
+<img width="1440" alt="Screen Shot 2023-07-08 at 4 48 09 PM" src="https://github.com/Rachelonline/creativity-launchpad/assets/39543727/9100ecb1-4032-4211-84f4-01be52a5dd18">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
