@@ -1,3 +1,7 @@
+# Creativity Launchpad
+
+A starting point for "creativity hour," a personal activity for me to explore the world and indulge in my own curiosities
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
